@@ -47,7 +47,7 @@ To automate data cleaning and preparation for machine learning using a structure
 
 ## 📁 Files Included
 
-* `Task1Data-Pipeline.ipynb`
+* `Titanic_Data_Pipeline.ipynb`
 * `Titanic-Dataset.csv`
 * `processed_titanic.csv`
 * `titanic_full_pipeline.pkl`
