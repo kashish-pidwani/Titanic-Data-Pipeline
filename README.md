@@ -1,5 +1,14 @@
 # Titanic Data Pipeline (ETL Project)
 
+## Internship Details
+
+- **Company:** CodTech IT Solutions  
+- **Name:** Kashish Pidwani  
+- **Intern ID:** CTIS8144 
+- **Domain:** Data Science
+- **Duration:** 4 Weeks  
+
+
 ## 📌 Overview
 
 This project demonstrates the creation of a complete data pipeline for preprocessing, transformation, and loading (ETL) using Python.
